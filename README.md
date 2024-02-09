@@ -21,4 +21,4 @@ This project has been made using React.js, Tailwind and axios for API calls
 
 1. Dynamic customer review section
 
-### [Live link](https://saleassist-assignment.vercel.app/)
+### [Live link](https://saleassist-hospital.vercel.app//)
